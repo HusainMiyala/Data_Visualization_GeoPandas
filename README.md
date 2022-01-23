@@ -15,4 +15,3 @@
 ###### 1) Majority of Solar Power generated in Canada between October 2020 - October 2021 was in the province of Ontario.
 ###### 2) Solar Power generated is measured in Megawatt Hours (in one hundred thousands).
 
-![](Images/SolarPower_Canada.png)
