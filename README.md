@@ -16,3 +16,17 @@
 ###### 2) Solar Power generated is measured in Megawatt Hours (in one hundred thousands).
 
 ![](images/SolarPower_Canada.png)
+
+
+### Setup
+
+###### Required libraries include Pandas, Matplotlib, GeoPandas (Dependencies -> GDAL and Fiona)
+###### Run on Python 3.8
+
+### References
+
+#### Canadian Solar Power Generation Data
+###### Statistics Canada. Table 25-10-0015-01  Electric power generation, monthly generation by type of electricity
+
+#### Canada .Shape files
+###### Statistics Canada. https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2011-eng.cfm
