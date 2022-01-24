@@ -28,4 +28,5 @@
 ###### Statistics Canada. Table 25-10-0015-01  Electric power generation, monthly generation by type of electricity
 
 #### Canada .Shape files
+###### Boundary Files, Reference Guide, Second edition, 2016 Census. Statistics Canada Catalogue no. 92-160-G.
 ###### Statistics Canada. https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2011-eng.cfm
